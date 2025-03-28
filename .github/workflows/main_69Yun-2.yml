@@ -11,7 +11,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: 69Yun
+    environment: 69Yun-2
     # if: github.ref == 'refs/heads/master'
 
     steps:

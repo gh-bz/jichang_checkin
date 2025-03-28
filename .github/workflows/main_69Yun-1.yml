@@ -1,4 +1,4 @@
-name: "Common airport Checkin iKuuu"
+name: "Common airport Checkin 69Yun"
 
 on:
   schedule:
@@ -11,7 +11,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: iKuuu
+    environment: 69Yun-1
     # if: github.ref == 'refs/heads/master'
 
     steps:
